@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في عز الليل
+> طيفك ينادي روحي وتميل
+> بين الظلال حبك دليل
+> ونار الشوق ماليها بديل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
